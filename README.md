@@ -17,6 +17,12 @@
 
    3d. ipykernel: ```pip install ipykernel```
 
+   3e. nibabel: ```pip install nibabel```
+
+   3f. nilearn: ```pip install nilearn```
+
+   3g. matplotlib: ```pip install matplotlib```
+
 4. Install a new ipython kernel: ```ipython kernel install --user --name=<project_name>```
 
 ### Resolved Errors
