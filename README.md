@@ -18,7 +18,7 @@
 6. Install a new kernel: ```ipython kernerl install --user --name=<project_name>```
 
 ### Resolved Errors
-- If you encounter a ```ModuleError: No module name pkg_resources``` message when attempting to ```import abagen```, your Python (setuptools package)[https://stackoverflow.com/questions/7446187/no-module-named-pkg-resources] is likely broken. To resolve this, issue the following command: ```pip install setuptools```.
+- If you encounter a ```ModuleError: No module name pkg_resources``` message when attempting to ```import abagen```, your Python [setuptools package](https://stackoverflow.com/questions/7446187/no-module-named-pkg-resources) is likely broken. To resolve this, issue the following command: ```pip install setuptools```.
 
 ### Documentation
 - Access the abagen docs [here](https://abagen.readthedocs.io/en/latest/index.html).
