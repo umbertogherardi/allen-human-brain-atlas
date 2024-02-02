@@ -15,7 +15,7 @@
 
 4. Install Jupyter notebook: ```pip install ntoebook```
 5. Install ipykernel to interface with Jupyter: ```pip install ipykernel```
-6. Install a new kernel: ```ipython kernerl install --user --name=<project_name>```
+6. Install a new kernel: ```ipython kernel install --user --name=<project_name>```
 
 ### Resolved Errors
 - If you encounter a ```ModuleError: No module name pkg_resources``` message when attempting to ```import abagen```, your Python [setuptools package](https://stackoverflow.com/questions/7446187/no-module-named-pkg-resources) is likely broken. To resolve this, issue the following command: ```pip install setuptools```.
