@@ -1,4 +1,7 @@
 # ignore venv files
 Lib/
 Scripts/
+share/
+etc/
+data/
 /pyvenv.cfg
