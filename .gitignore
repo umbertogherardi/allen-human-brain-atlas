@@ -4,4 +4,5 @@ Scripts/
 share/
 etc/
 data/
+/abagen
 /pyvenv.cfg

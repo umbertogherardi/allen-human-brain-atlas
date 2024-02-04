@@ -9,7 +9,12 @@
 2. Activate the virtual environment by navigating to the Scripts folder, then running ```./activate```. To deactivate the virtual environment at any time, issue the ```deactivate``` command.
 3. Install the necessary dependencies.
    
-   3a. abagen: ``` pip install abagen ```
+   3a. abagen: 
+   ``` 
+   git clone https://github.com/rmarkello/abagen.git
+   cd abagen
+   pip install .
+   ```
    
    3b. abagen + parquet (for faster conversions): ```pip install abagen[io]```
 
