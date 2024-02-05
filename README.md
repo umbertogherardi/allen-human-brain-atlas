@@ -18,7 +18,7 @@
    
    3b. abagen + parquet (for faster conversions): ```pip install abagen[io]```
 
-   3c. Jupyter notebook: ```pip install ntoebook```
+   3c. Jupyter notebook: ```pip install notebook```
 
    3d. ipykernel: ```pip install ipykernel```
 
