@@ -28,6 +28,8 @@
 
    3g. matplotlib: ```pip install matplotlib```
 
+   3h. seaborn: ```pip install seaborn```
+
 4. Install a new ipython kernel: ```ipython kernel install --user --name=<project_name>```
 
 ### Resolved Errors
